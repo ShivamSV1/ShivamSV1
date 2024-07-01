@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShivamSV1
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Java,Spring
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on Go,Java,Spring
 
 
 <!---
